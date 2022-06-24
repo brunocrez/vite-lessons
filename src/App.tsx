@@ -1,8 +1,8 @@
-import { Lessons } from './pages/Lessons'
+import { Router } from './Router'
 
 function App() {
   return (
-    <Lessons />
+    <Router />
   )
 }
 
